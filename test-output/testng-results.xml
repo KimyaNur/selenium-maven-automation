@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9095" started-at="2018-07-09T22:47:36Z" finished-at="2018-07-09T22:47:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9095" started-at="2018-07-09T22:47:36Z" finished-at="2018-07-09T22:47:45Z">
+      <class name="pomdesign.WebOrderTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="setUp" is-config="true" duration-ms="5086" started-at="2018-07-09T22:47:36Z" finished-at="2018-07-09T22:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpApplication()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="setUpApplication" is-config="true" duration-ms="299" started-at="2018-07-09T22:47:41Z" finished-at="2018-07-09T22:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApplication -->
+        <test-method status="PASS" signature="labelsVerication()[pri:1, instance:pomdesign.WebOrderTests@4f5df012]" name="labelsVerication" duration-ms="766" started-at="2018-07-09T22:47:41Z" description="Veriy labels and tab links are displayed " finished-at="2018-07-09T22:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- labelsVerication -->
+        <test-method status="PASS" signature="setUpApplication()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="setUpApplication" is-config="true" duration-ms="59" started-at="2018-07-09T22:47:42Z" finished-at="2018-07-09T22:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApplication -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="logout" is-config="true" duration-ms="0" started-at="2018-07-09T22:47:42Z" finished-at="2018-07-09T22:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="availableProductsTest()[pri:2, instance:pomdesign.WebOrderTests@4f5df012]" name="availableProductsTest" duration-ms="820" started-at="2018-07-09T22:47:42Z" description="Verify Default Products and prices" finished-at="2018-07-09T22:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- availableProductsTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="logout" is-config="true" duration-ms="0" started-at="2018-07-09T22:47:43Z" finished-at="2018-07-09T22:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="setUpApplication()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="setUpApplication" is-config="true" duration-ms="50" started-at="2018-07-09T22:47:43Z" finished-at="2018-07-09T22:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApplication -->
+        <test-method status="PASS" signature="orderPage()[pri:3, instance:pomdesign.WebOrderTests@4f5df012]" name="orderPage" duration-ms="1981" started-at="2018-07-09T22:47:43Z" description="order page" finished-at="2018-07-09T22:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderPage -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="logout" is-config="true" duration-ms="1" started-at="2018-07-09T22:47:45Z" finished-at="2018-07-09T22:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pomdesign.WebOrderTests@4f5df012]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-09T22:47:45Z" finished-at="2018-07-09T22:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pomdesign.WebOrderTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
